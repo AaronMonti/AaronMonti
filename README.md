@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Aaron</h1>
-<h3 align="center">Estudiante de Tecnicatura en Programación de Argentina</h3>
+<h3 align="center">Estudiante de programación de Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronmonti&label=Profile%20views&color=0e75b6&style=flat" alt="aaronmonti" /> </p>
 
