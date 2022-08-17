@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronmonti&label=Profile%20views&color=0e75b6&style=flat" alt="aaronmonti" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **C en la universidad y C# por mi cuenta**
+- 🌱 Actualmente estoy en la universidad y en camino a ser FullStack developer con Fundacion Pescar, Educacion IT, Santander y JP Morgan**
 
 - 📫 Contáctate conmigo **montiveroaaron@gmail.com**
 
