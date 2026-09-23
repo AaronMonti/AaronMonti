@@ -1,62 +1,29 @@
-<div align="center">
-<img src="https://i.postimg.cc/FHZ8VXHd/2-pl-Uml-H-ofv27-LHg8v3-Sw-Eg.png" align="center" height="" width="200" />
-</div>  
-  
+# ¡Hola, Soy Aaron Luciano Montivero 👋
 
-### <div align="center">I'm Aaron, a full-stack developer 👨‍💻 working remotely since 2022 🚀</div>  
-  
+**Desarrollador Full Stack** radicado en Mar del Plata, Argentina 🇦🇷  
+Especializado en el ecosistema **JavaScript/TypeScript** (`Vue.js`, `React`, `Node.js`) y **Python** (`Flask`).
 
-- 🔭 I’m currently working on [B2Gov](https://github.com/B2Gov)  
-  
+---
 
-- 🌱 I’m currently learning VueJS and Python  
-  
+## 🚀 Sobre mí
 
-<br/>  
+- 💼 **Experiencia Profesional:** +4 años como Desarrollador Full Stack. En mi rol principal en **B2Gov**, he liderado la migración completa del frontend de plataformas en producción (de Vue 2 a Vue 3/Vite) e implementado APIs REST en Python (Flask).
+- 🛠️ **Emprendimiento:** Co-fundador de **byNAdevs**, desarrollando aplicaciones web a medida, landing pages de alto rendimiento e integraciones en la nube.
+- 🎓 **Formación Continua:** Estudiante de la *Tecnicatura Universitaria en Programación* en la **Universidad Tecnológica Nacional (UTN)**.
 
+---
 
-## My Skill Set  
+## 🛠️ Stack Tecnológico
 
+- **Frontend:** Vue.js (Vue 2 & 3), React, Next.js, Vite, Vuetify, Tailwind CSS, HTML5, CSS3 / SASS.
+- **Backend:** Python (Flask), Node.js, REST APIs.
+- **Bases de Datos & Tools:** MongoDB, SQL (MySQL, PostgreSQL), Git, Docker, Vercel.
+- **Lenguajes:** JavaScript (ES6+), TypeScript, Python.
 
-### Frontend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>  
+---
 
-<br/>  
+## 📫 Contacto & Redes
 
-
-## Connect with me  
-#### <div align="center">Contact me 📫montiveroaaron@gmail.com</div>  
-  
-
-<div align="center">
-<a href="https://github.com/AaronMonti" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/aaron-luciano-montivero" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=AaronMonti&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+- **LinkedIn:** [linkedin.com/in/aaron-luciano-montivero](https://www.linkedin.com/in/aaron-luciano-montivero)
+- **Email:** montiveroaaron@gmail.com
+- **Ubicación:** Mar del Plata, Argentina
